@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barnett N. Bullock
 - 👀 I’m interested in ... learning Python, Node.js and HTML/CSS/Javascript
-- 🌱 I’m currently learning ... Dataanalytics at UofT Bootcamp
-- 💞️ I’m looking to collaborate on ... Learning projects with my team
+- 🌱 I’m currently learning ... Data Analytics at UofT Bootcamp
+- 💞️ I’m looking to collaborate on ... Projects and learning opportunities with my team
 - 📫 How to reach me ... bn_bullock@yahoo.com
 
 <!---
