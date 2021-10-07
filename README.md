@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barnett Neil Bullock
 - 👀 I’m interested in ... learning Python, HTML/CSS/Javascript and visualization techniques
 - 🌱 I’m currently learning ... Data Analytics at the University of Toronto Bootcamp
-- 💞️ I’m looking to collaborate on ... Projects and learning opportunities with my team
+- 💞️ I’m looking to collaborate on ... interesting Projects and learning opportunities
 - 📫 How to reach me ... bn_bullock@yahoo.com
 
 <!---
